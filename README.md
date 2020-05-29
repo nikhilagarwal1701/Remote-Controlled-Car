@@ -11,4 +11,5 @@ This will be a project guide to run a car using Raspberry Pi.
 
 # SOFTWARE
 Remote Display - I used VNC Viewer
+
 Putty - For getting the ip of Raspberry Pi
